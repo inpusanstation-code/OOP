@@ -1,0 +1,38 @@
+from datetime import datetime
+ # 경기결과입력받는곳
+place=input("경기가열린곳은? ")
+time=input("경기가열린시간은? ")
+opponent=input("상대팀은? ")
+goals=input("손흥민은몇골을넣었나요? ")
+aids=input("도움은몇개인가요? ")
+score_me=input("손흥민팀이넣은골수는? ")
+score_you=input("상대팀이넣은골수는? ")
+ # 기사작성하는곳
+news="[프리미어리그속보("+str(datetime.now())+")]\n"
+news=news+"손흥민선수는"+place+"에서"+time+"에열린경기에출전하였습니다.\n"
+news=news+"상대팀은"+opponent+"입니다. "
+
+if score_me>score_you:
+    news=news+"손흥민선수의팀이"+score_me+"골을넣어"+score_you+"골을넣은상대팀을이겼습니다. \n"
+elif score_me<score_you:
+    news=news+"손흥민선수의팀이"+score_me+"골을넣어"+score_you+"골을넣은상대팀에게졌습니다. \n"
+else:
+    news=news+"두팀은"+score_me+"대"+score_you+"로비겼습니다. \n"
+if int(goals)>0 and int(aids)>0:
+    news=news+"손흥민선수는"+goals+"골에도움"+aids+"개로승리를크게이끌었습니다. \n"
+elif int(goals)>0 and int(aids)==0:
+    news=news+"손흥민선수는"+goals+"골로승리를이끌었습니다. \n"
+elif int(goals)==0 and int(aids)>0:
+    news=news+"손흥민선수는골은없지만도움"+aids+"개로승리하는데공헌하였습니다. \n"
+else:
+    news=news+"아쉽게도이번경기에서손홍민의발끝은침묵을지켰습니다. \n"
+print(news)
+
+# 음성으로들려주는곳
+from gtts import gTTS
+import pyglet
+tts=gTTS(text=news,lang='ko') # 문자열news를위한한국어음성합성
+tts.save("./news_Son.mp3")
+
+from IPython.display import Audio, display
+display(Audio("./news_Son.mp3", autoplay=True))
