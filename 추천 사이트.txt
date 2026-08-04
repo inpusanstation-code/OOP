@@ -1,0 +1,63 @@
+< 최신 뉴스 >
+- GeekNews - 개발/기술/스타트업 뉴스 서비스 (https://news.hada.io/)
+
+- 서버포럼 - IT 뉴스 (https://svrforum.com/itnews)
+
+- 클리앙 : 새로운소식 (https://www.clien.net/service/board/news)
+
+- 새로운 소식 1 페이지 | 다모앙 | DAMOANG (https://damoang.net/new)
+
+- 하드웨어 뉴스 | 퀘이사존 QUASARZONE (https://quasarzone.com/bbs/qn_hardware)
+
+- 모바일 뉴스 | 퀘이사존 QUASARZONE (https://quasarzone.com/bbs/qn_mobile)
+
+- glevel 블로그 - TILNOTE (https://tilnote.io/@glevel)
+
+
+< 트렌드 >
+- IT 개발 이야기들 | 요즘IT (https://yozm.wishket.com/magazine/list/develop/)
+
+- 커리어리 트렌드 (https://careerly.co.kr/trends)
+
+- 일일일 - 스타트업 사람들을 위한 감도 높은 정보 큐레이션 플랫폼 (https://oneoneone.kr/homefeed)
+
+
+< 미디어 >
+- IT세상을 바꾸는 힘 지디넷코리아 (https://zdnet.co.kr/)
+
+- AI타임스 (https://www.aitimes.com/)
+
+- Google 뉴스 - 과학/기술 - 최신 뉴스 (https://news.google.com/topics/CAAqKAgKIiJDQkFTRXdvSkwyMHZNR1ptZHpWbUVnSnJieG9DUzFJb0FBUAE?hl=ko&gl=KR&ceid=KR%3Ako)
+
+- 티타임즈 T Times (https://www.ttimes.co.kr/)
+
+
+< 커뮤니티 >
+- 자유게시판 - 커뮤니티 | 코드잇 (https://www.codeit.kr/community/general?board=GENERAL)
+
+- 현직자가 답하는 커리어리 현직자 Q&A (https://careerly.co.kr/qnas)
+
+- 팁/노하우 | 퀘이사존 QUASARZONE (https://quasarzone.com/bbs/qb_tip)
+
+
+< 유용한 깃허브 리포지터리 >
+
+- GitHub - Integerous/goQuality-dev-contents: { 고퀄리티 개발 컨텐츠 모음 } (https://github.com/Integerous/goQuality-dev-contents)
+
+- GitHub - codingmonster-tv/Awesome_Resume_Portfolio: 개발자를 위한 이력서 작성 가이드, 포맷 그리고 다양한 예시들 (https://github.com/codingmonster-tv/Awesome_Resume_Portfolio)
+
+- GitHub - hyunjun/bookmarks (https://github.com/hyunjun/bookmarks)
+
+- GitHub - currenjin/site-for-developers: 🌏🇰🇷 개발자를 위한 북마크 모음집 (https://github.com/currenjin/site-for-developers)
+
+- GitHub - dl0312/open-apis-korea: 🇰🇷 한국어 사용자를 위한 서비스에 사용하기 위한 오픈 API 모음 (https://github.com/dl0312/open-apis-korea)
+
+- GitHub - public-apis/public-apis: A collective list of free APIs (https://github.com/public-apis/public-apis)
+
+- GitHub - oaksong/developers-retrospective: 개발자 회고 모음 (https://github.com/oaksong/developers-retrospective)
+
+- GitHub - ripienaar/free-for-dev: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (https://github.com/ripienaar/free-for-dev)
+
+- GitHub - milooy/remote-or-flexible-work-company-in-korea: 한국에서 원격근무 혹은 자율출퇴근이 되는 회사 리스트를 아카이브합니다 (https://github.com/milooy/remote-or-flexible-work-company-in-korea)
+
+- GitHub - teddylee777/machine-learning: 머신러닝 입문자 혹은 스터디를 준비하시는 분들에게 도움이 되고자 만든 repository입니다. (This repository is intented for helping whom are interested in machine learning study) (https://github.com/teddylee777/machine-learning
